@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/pwittchen/money-transfer-api.svg?branch=master&style=flat-square)](https://travis-ci.org/houmadiMohcine/blackfriday)
-[![codecov](https://img.shields.io/codecov/c/github/pwittchen/money-transfer-api/master.svg?style=flat-square&label=coverage)](https://codecov.io/gh/houmadiMohcine/blackfriday/branch/master)
+[![Build Status](https://img.shields.io/travis/pwittchen/money-transfer-api.svg?branch=master&style=flat-square)](https://travis-ci.org/HoumadiMohcine/blackfriday)
+[![codecov](https://img.shields.io/codecov/c/github/pwittchen/money-transfer-api/master.svg?style=flat-square&label=coverage)](https://codecov.io/gh/HoumadiMohcine/blackfriday/branch/master)
 
 Black Friday Test
 -----
